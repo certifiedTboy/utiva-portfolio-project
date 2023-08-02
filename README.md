@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This is my web-based portfolio build with react js
+Uutiva / Binance Fullstack/Web3 scholarship Portfolio project
 
 ## Live Demo
 
