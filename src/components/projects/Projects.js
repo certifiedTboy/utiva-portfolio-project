@@ -120,7 +120,7 @@ const Projects = () => {
                         href=""
                         data-bs-toggle="modal"
                         data-bs-target="#staticBackdrop3">
-                        WebDev Blog
+                        WebDev Blog (Utiva/Binance Final Project)
                       </a>
                     </h3>
                     <a className="btn">+</a>
